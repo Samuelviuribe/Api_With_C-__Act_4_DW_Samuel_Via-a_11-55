@@ -45,3 +45,4 @@ C:\Users\HP\OneDrive\Documentos\Archivos - Documentos Importantes\Archivos Unive
 C:\Users\HP\OneDrive\Documentos\Archivos - Documentos Importantes\Archivos Universitarios\Desarollo de Software Web 000\Unidad#4\Actividad #4\MiAplicacionConApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\HP\OneDrive\Documentos\Archivos - Documentos Importantes\Archivos Universitarios\Desarollo de Software Web 000\Unidad#4\Actividad #4\MiAplicacionConApi\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\HP\OneDrive\Documentos\Archivos - Documentos Importantes\Archivos Universitarios\Desarollo de Software Web 000\Unidad#4\Actividad #4\MiAplicacionConApi\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\HP\OneDrive\Documentos\Archivos - Documentos Importantes\Archivos Universitarios\Desarollo de Software Web 000\Unidad#4\Actividad #4\MiAplicacionConApi\obj\Debug\net8.0\MiAplicacionConApi.sourcelink.json
